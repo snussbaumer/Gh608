@@ -78,7 +78,7 @@ class Gh608ApplicationTests {
 
 			@Override
 			public String toString() {
-				return "Bar [message=" + this.message + "]";
+				return "Foo [message=" + this.message + "]";
 			}
 
 		}
